@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 5, 2034
+### Day 0: February 5, 2024
 ##### (delete me or comment me out)
 
 **Today's Progress**: committed to the ### 100 Days Of Code.
