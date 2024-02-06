@@ -2,7 +2,7 @@
 
 ### Day 0: February 5, 2024
 
-**Today's Progress**: committed to the ### 100 Days Of Code.
+**Today's Progress**: committed to the **100 Days Of Code.**
 
 **Thoughts:** It was hard decision for me at first to commit and be accountable to the public.
 
