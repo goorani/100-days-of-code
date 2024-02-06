@@ -1,13 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 0: February 5, 2034
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: committed to the ### 100 Days Of Code.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** It was hard decision for me at first to commit and be accountable to the public.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [100-days-of-code](https://github.com/goorani/100-days-of-code)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
