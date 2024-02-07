@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 5, 2024
+### Day 0: February 4, 2024
 
 **Today's Progress**: committed to the **100 Days Of Code.**
 
@@ -9,22 +9,21 @@
 **Link to work:** [100-days-of-code](https://github.com/goorani/100-days-of-code)
 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### Day 1: February 5, 2024
 
 
-### Day 1: June 27, Monday
+**Today's Progress**: Set up my github repo and started ideation on my new project..
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts**:
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Link(s) to work**: 
+
+
+### Day 2: February 6, 2024
+
+**Today's Progress**: I have ideated on all the features for my new project and started creating milestone for the MVP
+
+**Thoughts** I'm yet starting and at the same time being scared  already of how I will beat this challenge amidst my 9-6 full time job, coming back home late and exhausted.
+Anyway lets Keep watching how far💪 I will go!
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
