@@ -27,3 +27,21 @@
 Anyway lets Keep watching how far💪 I will go!
 
 **Link(s) to work**
+
+### Day 3: February 7, 2024
+
+**Today's Progress**: started developing the UI wireframe for the solo project
+
+**Thoughts** I have struggled coming up with the wireframe and having a thought as if it's waste of time to first do wireframe
+
+**Link(s) to work**
+
+
+### Day 4: February 8, 2024
+
+**Today's Progress**: Transformed the sign in wireframe to UI, working toward finishing the all the UI components before
+ Day 10
+
+**Thoughts**
+
+**Link(s) to work**
